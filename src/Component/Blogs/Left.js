@@ -18,7 +18,7 @@ const data = [
         para: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit modi numquam nobis quod vel, nulla unde nesciunt'
     },
     {
-        imgUrl: 'https://salemcollege.org/wp-content/uploads/2020/04/artificial-neural-network.jpg',
+        imgUrl: 'https://www.pandasecurity.com/en/mediacenter/src/uploads/2019/03/hero-1.jpg',
         heading: 'Third E-Learning App Design And How To ',
         para: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit modi numquam nobis quod vel, nulla unde nesciunt'
     }
