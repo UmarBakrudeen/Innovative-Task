@@ -56,6 +56,7 @@
         }
         .isOpenmenu {
             .bars {
+                position: fixed;
                 &::before {
                     transform: translateY(8px) rotate(-135deg);
                     background-color: $color-white;
@@ -103,8 +104,9 @@
 .megamenu__container {
     width: 100%;
     height: 100vh;
+    overflow: hidden;
     background-color: $color-black;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     transition: all 0.5s;
